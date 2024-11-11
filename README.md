@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="">Juan Covili</a> 👋</h1>
+</div>
+<img src="https://github.com/user-attachments/assets/f6e6272e-0304-4968-8b4c-e996eb812865">
 
-<!--
-**juanCovili/JuanCovili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Stack:
 
-Here are some ideas to get you started:
+# 💫 About Me:
+💻 Computer science engineering Student 📱Mobile Developer 🕹️ Game Developer 🍕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juanCovili&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juanCovili&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juanCovili&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=juanCovili&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
