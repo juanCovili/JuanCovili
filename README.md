@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/juan-covili/">Juan Covili!</a></h1>
+<h1 align="center">Welcome ✌️
 </div>
+  
 <img src="https://github.com/user-attachments/assets/f6e6272e-0304-4968-8b4c-e996eb812865">
 
 # 💻 Stack:
