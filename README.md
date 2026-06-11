@@ -5,7 +5,7 @@
 <!-- ![Banner de build sucess](success.png) -->
 
 # About Me
-Computer Engineer and Programmer Analyst with experience in web development, cross-platform applications, remote technical support, and report generation using data analysis and artificial intelligence tools. I stand out for my focus on continuous improvement and my commitment to delivering efficient, high-quality solutions.
+Software Engineer with experience in web development, cross-platform applications, remote technical support, and report generation using data analysis and artificial intelligence tools. I stand out for my focus on continuous improvement and my commitment to delivering efficient, high-quality solutions.
 
 <!-- # Tech Stack
 <p align="left">
