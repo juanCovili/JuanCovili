@@ -22,3 +22,24 @@ Software Engineer with experience in web development, cross-platform application
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juanCovili&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+
+<!-- ## 👋 Hola, soy Juan
+Soy Ingeniero Informático especializado en desarrollo Full Stack. Me apasiona construir soluciones eficientes y escalables.
+
+### 🚀 Tecnologías
+- 💻 JavaScript, Python, Java
+- 🌐 React, Node.js, Spring Bootz
+- ☁️ Firebase, AWS (Free Tier), Docker
+- 🗄️ PostgreSQL, MongoDB
+
+### 📂 Proyectos destacados
+- [CityHarmony](https://github.com/usuario/cityharmony): App para mejorar la seguridad vecinal (React + Firebase)
+- [Rami E-commerce](https://github.com/usuario/rami-store): Tienda de cosmética con recomendación ML y pasarela de pagos
+
+### 📫 Contáctame
+- 📧 juan.tuemail@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/juan-dev)
+
+ "El código limpio es un arte invisible que todos agradecen." -->
+
